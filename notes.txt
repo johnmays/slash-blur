@@ -1,0 +1,7 @@
+Python not attached once again?  Windows periodically detaches my python path and adds microsoft store stuff as the path.  Great feature.
+
+- Go to "Edit System Env Variables" with Start Menu.
+- New user variable with name python and Path "C:\Users\John Mays\AppData\Local\Programs\Python\Python313\" -- this is where Python.exe is contained
+- Go to existing System Variable Path, add new "C:\Users\John Mays\AppData\Local\Programs\Python\Python313\"
+- Hit OK, OK, OK
+- Done
