@@ -10,9 +10,3 @@ This repository contains Python code that implements an idea I had for a noisy b
 ![Blur 3 actually](data/out/twin_blur3_crop.png)
 ### Blur Setting 3 `(concentration=10, length=5, intensity=0.25)`:
 ![Blur 4 actually](data/out/twin_blur4_crop.png)
-
-
-blur_1 = Blur(0.1, 9, 1) # so ugly
-blur_2 = Blur(1, 11, 1)
-blur_3 = Blur(4, 5, 1)
-blur_4 = Blur(10, 5, 0.25)
